@@ -1,0 +1,7 @@
+{
+  "name": "Mojguru.ai - AI Chef",
+  "description": "An interactive AI-powered culinary companion that transforms the cooking experience. Scan pantry items for recipe suggestions, explore AI-graded dishes, and discover creative variations for any recipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
